@@ -1,27 +1,48 @@
-<h2 align="left">Hi 👋! My name is Mohamed Ibrahim and I'm a Software Developer</h2>
-
-###
-
-<img align="right" height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXNraHI2YTY4anplMXN4d2lka3M0eWZ4Ynk0dXljcWtmaDc0d2ExMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUPGcC4A6ElcqtUJck/giphy.gif"  />
+<h2 align="left">Hi 👋! My name is Mohamed and I'm a Software Developer.</h2>
 
 ###
 
 <div align="left">
-  <a href="[www.linkedin.com/in/mohamed-ibrahim-aka-evil-deal](https://l.facebook.com/l.php?u=https%3A%2F%2Flinkedin.com%2Fin%2Fmohamed-ibrahim-aka-evil-deal%3Ffbclid%3DIwZXh0bgNhZW0CMTAAYnJpZBExeWI1MTdxOFJ4d3pBaFp2cAEe3yZVflIQxs14Nmjn7nxz7AMBOvOutDqP_5wY4631uQ_yGu9NA8Ci25DhPAg_aem_onolDz5jF2dxO07FCkfbwQ&h=AT2Q9WNDonlPuMdjxw3LhrY9qWZ1Gh5bFA0iPXA_eoKWRCXeKFRtw-M6DRdKzKQFZvuEUKQC2waP8a4hr6QhjfdmpIEb_iQ1vjzmfpTKj2lsiZmR5JE0U3CG3eWKmJMTmN0i)" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" alt="photoshop logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" height="30" alt="premierepro logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
+</div>
+
+###
+
+<img align="right" height="191" src="https://i.pinimg.com/originals/74/91/c6/7491c660fdeb41b5fe36dcdceefbab81.gif"  />
+
+###
+
+<div align="left">
   <a href="https://www.facebook.com/mohamed.ibrahem.18400" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="47" height="35" alt="facebook logo"  />
   </a>
   <a href="https://www.instagram.com/mohamed_ibrahim2180/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
   </a>
-  <a href="m.ibrahim21800@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
-  </a>
-  <a href="m.ibrahim218@outlook.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="47" height="35" alt="microsoft-outlook logo"  />
-  </a>
 </div>
+
+###
+
+<p align="left">Shinzō wo Sasageyo 👊</p>
 
 ###
