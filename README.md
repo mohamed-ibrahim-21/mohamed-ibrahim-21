@@ -8,10 +8,10 @@
 
 <p align="left">
 📚 I'm currently learning:<br>
-Backend development with Node.js & Express, improving my problem-solving skills, and diving deeper into databases and system design.<br><br>
+Backend development with Node.js & Express, improving my problem-solving skills, <br>and diving deeper into databases and system design.<br><br>
 
 🎯 Goals:<br>
-To become a professional Software Engineer, build scalable web applications, and work on real-world impactful projects.
+To become a professional Software Engineer, <br>build scalable web applications, and work on real-world impactful projects.
 </p>
 
 <h2 align="left">I code with</h2>
