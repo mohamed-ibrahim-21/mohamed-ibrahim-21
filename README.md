@@ -42,6 +42,11 @@ To become a professional Software Engineer, <br>build scalable web applications,
 <h2 align="left">Social Media</h2>
 
 <div align="left" style="display: flex; gap: 12px; align-items: center;">
+
+  <a href="https://www.linkedin.com/in/mohamed-ibrahim-aka-evildeal/" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" />
+  </a>
+
   <a href="https://www.facebook.com/mohamed.ibrahem.18400" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="40" />
   </a>
@@ -65,4 +70,5 @@ To become a professional Software Engineer, <br>build scalable web applications,
   <a href="https://www.hackerrank.com/profile/m_ibrahim21800" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="40" />
   </a>
+
 </div>
