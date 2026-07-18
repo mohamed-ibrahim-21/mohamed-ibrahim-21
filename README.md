@@ -66,5 +66,3 @@ To become a professional Software Engineer, <br>build scalable web applications,
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="40" />
   </a>
 </div>
-
-عايز اعدل علي الكود ده بحيث يبا الكلام مش واصل للصوره كده يبقا فيه مسافه بين الصوره و الكلام 
